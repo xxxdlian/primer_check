@@ -1,0 +1,34 @@
+>gnl|hbvnuc|AY090454_FT00000_C-H Feature FT:source AY090454_FT00000_C-H of [Viruses] Hepatitis B Virus genotype H. Complete genome. [Riboviria] (length=3215 residues). region_alignment_cols=358-401
+TTGTCCTGGCTATCGTTGGATGTGTCTGCGGCGTTTTATCATCT
+>gnl|hbvnuc|FJ356716_FT00000_C-H Feature FT:source FJ356716_FT00000_C-H of [Viruses] Hepatitis B Virus genotype H (isolate CL150171). Complete genome. [Riboviria] (length=3215 residues). region_alignment_cols=358-401
+TTGTCCTGGCTATCGTTGGATGTGTCTGCGGCGTTTTATCATCT
+>gnl|hbvnuc|AY090458_FT00000_C-F Feature FT:source AY090458_FT00000_C-F of [Viruses] Hepatitis B Virus genotype F. Complete genome. [Riboviria] (length=3215 residues). region_alignment_cols=358-401
+TTGTCCTGGCTATCGCTGGATGTGTCTGCGGCGTTTTATCATAT
+>gnl|hbvnuc|X75658_FT00000_C-F Feature FT:source X75658_FT00000_C-F of [Viruses] Hepatitis B Virus genotype F (isolate Fou). Complete genome. [Riboviria] (length=3215 residues). region_alignment_cols=358-401
+TTGTCCTGGCTATCGTTGGATGTGTCTGCGGCGTTTTATCATCT
+>gnl|hbvnuc|AB064313_FT00000_C-G Feature FT:source AB064313_FT00000_C-G of [Viruses] Hepatitis B Virus genotype G. Complete genome. [Riboviria] (length=3248 residues). region_alignment_cols=358-401
+TTGTCCTGGCTATCGCTGGATGTGTCTGCGGCGTTTTATCATAT
+>gnl|hbvnuc|AF160501_FT00000_C-G Feature FT:source AF160501_FT00000_C-G of [Viruses] Hepatitis B Virus genotype G. Complete genome. [Riboviria] (length=3248 residues). region_alignment_cols=358-401
+TTGTCCTGGCTATCGCTGGATGTGTCTGCGGCGTTTTATCATAT
+>gnl|hbvnuc|AB106564_FT00000_C-E Feature FT:source AB106564_FT00000_C-E of [Viruses] Hepatitis B Virus genotype E (isolate HBV-GA325). Complete genome. [Riboviria] (length=3212 residues). region_alignment_cols=358-401
+TTGTCCTGGCTATCGCTGGATGTGTCTGCGGCGTTTTATCATCT
+>gnl|hbvnuc|AY738145_FT00000_C-E Feature FT:source AY738145_FT00000_C-E of [Viruses] Hepatitis B Virus genotype E (isolate patient B, 7/98). Complete genome. [Riboviria] (length=3212 residues). region_alignment_cols=358-401
+TTGTCCTGGCTATCGCTGGATGTGTCTGCGGCGTTTTATCATCT
+>gnl|hbvnuc|AF121240_FT00000_C-D Feature FT:source AF121240_FT00000_C-D of [Viruses] Hepatitis B Virus genotype D (isolate HBV/11066). Complete genome. [Riboviria] (length=3182 residues). region_alignment_cols=358-401
+TTGTCCTGGTTATCGCTGGATGTGTCTGCGGCGTTTTATCATCT
+>gnl|hbvnuc|FJ904433_FT00000_C-D Feature FT:source FJ904433_FT00000_C-D of [Viruses] Hepatitis B Virus genotype D (isolate B15). Complete genome. [Riboviria] (length=3182 residues). region_alignment_cols=358-401
+TTGTCCTGGTTATCGCTGGATGTGTCTGCGGCGTTTTATCATCT
+>gnl|hbvnuc|EU054331_FT00000_C-A Feature FT:source EU054331_FT00000_C-A of [Viruses] Hepatitis B Virus genotype A. Complete genome. [Riboviria] (length=3221 residues). region_alignment_cols=358-401
+TTGTCCTGGTTATCGCTGGATGTGTCTGCGGCGTTTTATCATAT
+>gnl|hbvnuc|X02763_FT00000_C-A Feature FT:source X02763_FT00000_C-A of [Viruses] Hepatitis B Virus genotype A. Complete genome. [Riboviria] (length=3221 residues). region_alignment_cols=358-401
+TTGTCCTGGTTATCGCTGGATGTGTCTGCGGCGTTTTATCATAT
+>gnl|hbvnuc|AB219428_FT00000_C-B Feature FT:source AB219428_FT00000_C-B of [Viruses] Hepatitis B Virus genotype B (isolate Patient #4076, PNN3). Complete genome. [Riboviria] (length=3215 residues). region_alignment_cols=358-401
+TTGTCCTGGCTATCGCTGGATGTGTCTGCGGCGTTTTATCATAT
+>gnl|hbvnuc|D00331_FT00000_C-B Feature FT:source D00331_FT00000_C-B of [Viruses] Hepatitis B Virus genotype B. Complete genome. [Riboviria] (length=3215 residues). region_alignment_cols=358-401
+TTGTCCTGGTTATCGCTGGATGTGTCTGCGGCGTTTTATCATCT
+>gnl|hbvnuc|GQ358158_FT00000_C-C Feature FT:source GQ358158_FT00000_C-C of [Viruses] Hepatitis B Virus genotype C (isolate M154). Complete genome. [Riboviria] (length=3215 residues). region_alignment_cols=358-401
+TTGTCCTGGCTATCGCTGGATGTGTCTGCGGCGTTTTATCATCT
+>gnl|hbvnuc|GQ924620_FT00000_C-C Feature FT:source GQ924620_FT00000_C-C of [Viruses] Hepatitis B Virus genotype C (isolate M38). Complete genome. [Riboviria] (length=3215 residues). region_alignment_cols=358-401
+TTGTCCTGGCTATCGTTGGATGTGTCTGCGGCGTTTTATCATAT
+>AS_probe aligned_to=gnl|hbvnuc|AY090458_FT00000_C-F sequence_used=original ungapped=368-391 alignment_cols=368-391 region_alignment_cols=358-401 flank_bp=10
+----------TATCGCTGGATGTGTCTGCGGCGT----------
